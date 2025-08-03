@@ -1,0 +1,41 @@
+Arcane Eye,Divination,Wizard,Action,30 feet,"V, S, M","C, up to 1 hour"
+Aura of Life,Abjuration,"Cleric, Paladin",Action,Self,V,"C, up to 10 minutes"
+Aura of Purity,Abjuration,"Cleric, Paladin",Action,Self,V,"C, up to 10 minutes"
+Banishment,Abjuration,"Cleric, Paladin, Sorcerer, Warlock, Wizard",Action,30 feet,"V, S, M","C, up to 1 minute"
+Blight,Necromancy,"Druid, Sorcerer, Warlock, Wizard",Action,30 feet,"V, S",Instantaneous
+Charm Monster,Enchantment,"Bard, Druid, Sorcerer, Warlock, Wizard",Action,30 feet,"V, S",1 hour
+Compulsion,Enchantment,Bard,Action,30 feet,"V, S","C, up to 1 minute"
+Confusion,Enchantment,"Bard, Druid, Sorcerer, Wizard",Action,90 feet,"V, S, M","C, up to 1 minute"
+Conjure Minor Elementals,Conjuration,"Druid, Wizard",Action,Self,"V, S","C, up to 10 minutes"
+Conjure Woodland Beings,Conjuration,"Druid, Ranger",Action,Self,"V, S","C, up to 10 minutes"
+Control Water,Transmutation,"Cleric, Druid, Wizard",Action,300 feet,"V, S, M","C, up to 10 minutes"
+Death Ward,Abjuration,"Cleric, Paladin",Action,Touch,"V, S",8 hours
+Dimension Door,Conjuration,"Bard, Sorcerer, Warlock, Wizard",Action,500 feet,V,Instantaneous
+Divination,Divination,"Cleric, Druid, Wizard",Action or R,Self,"V, S, M(C*)",Instantaneous
+Dominate Beast,Enchantment,"Druid, Ranger, Sorcerer",Action,60 feet,"V, S","C, up to 1 minute"
+Evard's Black Tentacles,Conjuration,Wizard,Action,90 feet,"V, S, M","C, up to 1 minute"
+Fabricate,Transmutation,Wizard,10 minutes,120 feet,"V, S",Instantaneous
+Fire Shield,Evocation,"Druid, Sorcerer, Wizard",Action,Self,"V, S, M",10 minutes
+Fount of Moonlight,Evocation,"Bard, Druid",Action,Self,"V, S","C, up to 10 minutes"
+Freedom of Movement,Abjuration,"Bard, Cleric, Druid, Ranger",Action,Touch,"V, S, M",1 hour
+Giant Insect,Conjuration,Druid,Action,60 feet,"V, S","C, up to 10 minutes"
+Grasping Vine,Conjuration,"Druid, Ranger",Bonus Action,60 feet,"V, S","C, up to 1 minute"
+Greater Invisibility,Illusion,"Bard, Sorcerer, Wizard",Action,Touch,"V, S","C, up to 1 minute"
+Guardian of Faith,Conjuration,Cleric,Action,30 feet,V,8 hours
+Hallucinatory Terrain,Illusion,"Bard, Druid, Warlock, Wizard",10 minutes,300 feet,"V, S, M",24 hours
+Ice Storm,Evocation,"Druid, Sorcerer, Wizard",Action,300 feet,"V, S, M",Instantaneous
+Leomund's Secret Chest,Conjuration,Wizard,Action,Touch,"V, S, M(C)",Until dispelled
+Locate Creature,Divination,"Bard, Cleric, Druid, Paladin, Ranger, Wizard",Action,Self,"V, S, M","C, up to 1 hour"
+Mordenkainen's Faithful Hound,Conjuration,Wizard,Action,30 feet,"V, S, M",8 hours
+Mordenkainen's Private Sanctum,Abjuration,Wizard,10 minutes,120 feet,"V, S, M",24 hours
+Otiluke's Resilient Sphere,Abjuration,Wizard,Action,30 feet,"V, S, M","C, up to 1 minute"
+Phantasmal Killer,Illusion,"Bard, Wizard",Action,120 feet,"V, S","C, up to 1 minute"
+Polymorph,Transmutation,"Bard, Druid, Sorcerer, Wizard",Action,60 feet,"V, S, M","C, up to 1 hour"
+Staggering Smite,Enchantment,Paladin,Bonus Action(*),Self,V,Instantaneous
+Stone Shape,Transmutation,"Cleric, Druid, Wizard",Action,Touch,"V, S, M",Instantaneous
+Stoneskin,Transmutation,"Druid, Ranger, Sorcerer, Wizard",Action,Touch,"V, S, M(C*)","C, up to 1 hour"
+Summon Aberration,Conjuration,"Warlock, Wizard",Action,90 feet,"V, S, M(C)","C, up to 1 hour"
+Summon Construct,Conjuration,Wizard,Action,90 feet,"V, S, M(C)","C, up to 1 hour"
+Summon Elemental,Conjuration,"Druid, Ranger, Wizard",Action,90 feet,"V, S, M(C)","C, up to 1 hour"
+Vitriolic Sphere,Evocation,"Sorcerer, Wizard",Action,150 feet,"V, S, M",Instantaneous
+Wall of Fire,Evocation,"Druid, Sorcerer, Wizard",Action,120 feet,"V, S, M","C, up to 1 minute"

@@ -1,0 +1,64 @@
+Alarm,Abjuration,"Ranger, Wizard",1 minute or R,30 feet,"V, S, M",8 hours
+Animal Friendship,Enchantment,"Bard, Druid, Ranger",Action,30 feet,"V, S, M",24 hours
+Armor of Agathys,Abjuration,Warlock,Bonus Action,Self,"V, S, M",1 hour
+Arms of Hadar,Conjuration,Warlock,Action,Self,"V, S",Instantaneous
+Bane,Enchantment,"Bard, Cleric, Warlock",Action,30 feet,"V, S, M","C, up to 1 minute"
+Bless,Enchantment,"Cleric, Paladin",Action,30 feet,"V, S, M(C)","C, up to 1 minute"
+Burning Hands,Evocation,"Sorcerer, Wizard",Action,Self,"V, S",Instantaneous
+Charm Person,Enchantment,"Bard, Druid, Sorcerer, Warlock, Wizard",Action,30 feet,"V, S",1 hour
+Chromatic Orb,Evocation,"Sorcerer, Wizard",Action,90 feet,"V, S, M(C)",Instantaneous
+Color Spray,Illusion,"Bard, Sorcerer, Wizard",Action,Self,"V, S, M",Instantaneous
+Command,Enchantment,"Bard, Cleric, Paladin",Action,60 feet,V,Instantaneous
+Compelled Duel,Enchantment,Paladin,Bonus Action,30 feet,V,"C, up to 1 minute"
+Comprehend Languages,Divination,"Bard, Sorcerer, Warlock, Wizard",Action or R,Self,"V, S, M",1 hour
+Create or Destroy Water,Transmutation,"Cleric, Druid",Action,30 feet,"V, S, M",Instantaneous
+Cure Wounds,Abjuration,"Bard, Cleric, Druid, Paladin, Ranger",Action,Touch,"V, S",Instantaneous
+Detect Evil and Good,Divination,"Cleric, Paladin",Action,Self,"V, S","C, up to 10 minutes"
+Detect Magic,Divination,"Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard",Action or R,Self,"V, S","C, up to 10 minutes"
+Detect Poison and Disease,Divination,"Cleric, Druid, Paladin, Ranger",Action or R,Self,"V, S, M","C, up to 10 minutes"
+Disguise Self,Illusion,"Bard, Sorcerer, Wizard",Action,Self,"V, S",1 hour
+Dissonant Whispers,Enchantment,Bard,Action,60 feet,V,Instantaneous
+Divine Favor,Transmutation,Paladin,Bonus Action,Self,"V, S",1 minute
+Divine Smite,Evocation,Paladin,Bonus Action(*),Self,V,Instantaneous
+Ensnaring Strike,Conjuration,Ranger,Bonus Action(*),Self,V,"C, up to 1 minute"
+Entangle,Conjuration,"Druid, Ranger",Action,90 feet,"V, S","C, up to 1 minute"
+Expeditious Retreat,Transmutation,"Sorcerer, Warlock, Wizard",Bonus Action,Self,"V, S",C up to 10 minutes
+Faerie Fire,Evocation,"Bard, Druid",Action,60 feet,V,"C, up to 1 minute"
+False Life,Necromancy,"Sorcerer, Wizard",Action,Self,"V, S, M",Instantaneous
+Feather Fall,Transmutation,"Bard, Sorcerer, Wizard",Reaction(*),60 feet,"V, M",1 minute
+Find Familiar,Conjuration,Wizard,1 hour or R,10 feet,"V, S, M(C*)",Instantaneous
+Fog Cloud,Conjuration,"Druid, Ranger, Sorcerer, Wizard",Action,120 feet,"V, S",C up to 1 hour
+Goodberry,Conjuration,"Druid, Ranger",Action,Self,"V, S, M",24 hours
+Grease,Conjuration,"Sorcerer, Wizard",Action,60 feet,"V, S, M",1 minute
+Guiding Bolt,Evocation,Cleric,Action,120 feet,"V, S",1 round
+Hail of Thorns,Conjuration,Ranger,Bonus Action(*),Self,V,Instantaneous
+Healing Word,Abjuration,"Bard, Cleric, Druid",Bonus Action,60 feet,V,Instantaneous
+Hellish Rebuke,Evocation,Warlock,Reaction(*),60 feet,"V, S",Instantaneous
+Heroism,Enchantment,"Bard, Paladin",Action,Touch,"V, S","C, up to 1 minute"
+Hex,Enchantment,Warlock,Bonus Action,90 feet,"V, S, M","C, up to 1 hour"
+Hunter's Mark,Divination,Ranger,Bonus Action,90 feet,V,"C, up to 1 hour"
+Ice Knife,Conjuration,"Druid, Sorcerer, Wizard",Action,60 feet,"S, M",Instantaneous
+Identify,Divination,"Bard, Wizard",1 minute or R,Touch,"V, S, M(C)",Instantaneous
+Illusory Script,Illusion,"Bard, Warlock, Wizard",1 minute or R,Touch,"S, M(C*)",10 days
+Inflict Wounds,Necromancy,Cleric,Action,Touch,"V, S",Instantaneous
+Jump,Transmutation,"Druid, Ranger, Sorcerer, Wizard",Bonus Action,Touch,"V, S, M",1 minute
+Longstrider,Transmutation,"Bard, Druid, Ranger, Wizard",Action,Touch,"V, S, M",1 hour
+Mage Armor,Abjuration,"Sorcerer, Wizard",Action,Touch,"V, S, M",8 hours
+Magic Missile,Evocation,"Sorcerer, Wizard",Action,120 feet,"V, S",Instantaneous
+Protection from Evil and Good,Abjuration,"Cleric, Druid, Paladin, Warlock, Wizard",Action,Touch,"V, S, M(C*)","C, up to 10 minutes"
+Purify Food and Drink,Transmutation,"Cleric, Druid, Paladin",Action or R,10 feet,"V, S",Instantaneous
+Ray of Sickness,Necromancy,"Sorcerer, Wizard",Action,60 feet,"V, S",Instantaneous
+Sanctuary,Abjuration,Cleric,Bonus Action,30 feet,"V, S, M",1 minute
+Searing Smite,Evocation,Paladin,Bonus Action(*),Self,V,1 minute
+Shield,Abjuration,"Sorcerer, Wizard",Reaction,Self,"V, S",1 round
+Shield of Faith,Abjuration,"Cleric, Paladin",Bonus Action,60 feet,"V, S, M","C, up to 10 minutes"
+Silent Image,Illusion,"Bard, Sorcerer, Wizard",Action,60 feet,"V, S, M","C, up to 10 minutes"
+Sleep,Enchantment,"Bard, Sorcerer, Wizard",Action,60 feet,"V, S, M","C, up to 1 minute"
+Speak with Animals,Divination,"Bard, Druid, Ranger, Warlock",Action or R,Self,"V, S",10 minutes
+Tasha's Hideous Laughter,Enchantment,"Bard, Warlock, Wizard",Action,30 feet,"V, S, M","C, up to 1 minute"
+Tenser's Floating Disk,Conjuration,Wizard,Action or R,30 feet,"V, S, M",1 hour
+Thunderous Smite,Evocation,Paladin,Bonus Action(*),Self,V,Instantaneous
+Thunderwave,Evocation,"Bard, Druid, Sorcerer, Wizard",Action,Self,"V, S",Instantaneous
+Unseen Servant,Conjuration,"Bard, Warlock, Wizard",Action or R,60 feet,"V, S, M",1 hour
+Witch Bolt,Evocation,"Sorcerer, Warlock, Wizard",Action,60 feet,"V, S, M","C, up to 1 minute"
+Wrathful Smite,Necromancy,Paladin,Bonus Action(*),Self,V,1 minute

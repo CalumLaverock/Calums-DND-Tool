@@ -1,0 +1,18 @@
+Animal Shapes,Transmutation,Druid,Action,30 Feet,"V, S",24 Hours
+Antimagic Field,Abjuration,"Cleric, Wizard",Action,Self,"V, S, M","C, up to 1 hour"
+Antipathy/Sympathy,Enchantment,"Bard, Druid, Wizard",1 hour,60 feet,"V, S, M",10 days
+Befuddlement,Enchantment,"Bard, Druid, Warlock, Wizard",Action,150 feet,"V, S, M",Instantanous
+Clone,Necromancy,Wizard,1 hour,Touch,"V, S, M(C*)",Instantaneous
+Control Weather,Transmutation,"Cleric, Druid, Wizard",10 minutes,Self,"V, S, M","C, up to 8 hours"
+Demiplane,Conjuration,"Sorcerer, Warlock, Wizard",Action,60 feet,S,1 hour
+Dominate Monster,Enchantment,"Bard, Sorcerer, Warlock, Wizard",Action,60 feet,"V, S","C, up to 1 hour"
+Earthquake,Transmutation,"Cleric, Druid, Sorcerer",Action,500 feet,"V, S, M","C, up to 1 minute"
+Glibness,Enchantment,"Bard, Warlock",Action,Self,V,1 hour
+Holy Aura,Abjuration,Cleric,Action,Self,"V, S, M(C)","C, up to 1 minute"
+Incendiary Cloud,Conjuration,"Druid, Sorcerer, Wizard",Action,150 feet,"V, S","C, up to 1 minute"
+Maze,Conjuration,Wizard,Action,60 feet,"V, S","C, up to 10 minutes"
+Mind Blank,Abjuration,"Bard, Wizard",Action,Touch,"V, S",24 hours
+Power Word Stun,Enchantment,"Bard, Sorcerer, Warlock, Wizard",Action,60 feet,V,Instantaneous
+Sunburst,Evocation,"Cleric, Druid, Sorcerer, Wizard",Action,150 feet,"V, S, M",Instantaneous
+Telepathy,Divination,Wizard,Action,Unlimited,"V, S, M",24 hours
+Tsunami,Conjuration,Druid,1 minute,1 mile,"V, S","C, up to 6 rounds"

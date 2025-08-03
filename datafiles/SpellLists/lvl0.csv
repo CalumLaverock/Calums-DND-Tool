@@ -1,0 +1,34 @@
+Acid Splash,Evocation,"Sorcerer, Wizard",Action,60 feet,"V, S",Instantaneous
+Blade Ward,Abjuration,"Bard, Sorcerer, Warlock, Wizard",Action,Self,"V, S","C, up to 1 minute"
+Chill Touch,Necromancy,"Sorcerer, Warlock, Wizard",Action,Touch,"V, S",Instantaneous
+Dancing Lights,Illusion,"Bard, Sorcerer, Wizard",Action,120 feet,"V, S, M","C, up to 1 minute"
+Druidcraft,Transmutation,Druid,Action,30 feet,"V, S",Instantaneous
+Eldritch Blast,Evocation,Warlock,Action,120 feet,"V, S",Instantaneous
+Elementalism,Transmutation,"Druid, Sorcerer, Wizard",Action,30 feet,"V, S",Instantaneous
+Fire Bolt,Evocation,"Sorcerer, Wizard",Action,120 feet,"V, S",Instantaneous
+Friends,Enchantment,"Bard, Sorcerer, Warlock, Wizard",Action,10 feet,"S, M","C, up to 1 minute"
+Guidance,Divination,"Cleric, Druid",Action,Touch,"V, S","C, up to 1 minute"
+Light,Evocation,"Bard, Cleric, Sorcerer, Wizard",Action,Touch,"V, M",1 hour
+Mage Hand,Conjuration,"Bard, Sorcerer, Warlock, Wizard",Action,30 feet,"V, S",1 minute
+Mending,Transmutation,"Bard, Cleric, Druid, Sorcerer, Wizard",1 minute,Touch,"V, S, M",Instantaneous
+Message,Transmutation,"Bard, Druid, Sorcerer, Wizard",Action,120 feet,"S, M",1 round
+Mind Sliver,Enchantment,"Sorcerer, Warlock, Wizard",Action,60 feet,V,1 round
+Minor Illusion,Illusion,"Bard, Sorcerer, Warlock, Wizard",Action,30 feet,"S, M",1 minute
+Poison Spray,Necromancy,"Druid, Sorcerer, Warlock, Wizard",Action,30 feet,"V, S",Instantaneous
+Prestidigitation,Transmutation,"Bard, Sorcerer, Warlock, Wizard",Action,10 feet,"V, S",Up to 1 hour
+Produce Flame,Conjuration,Druid,Bonus Action,Self,"V, S",10 minutes
+Ray of Frost,Evocation,"Sorcerer, Wizard",Action,60 feet,"V, S",Instantaneous
+Resistance,Abjuration,"Cleric, Druid",Action,Touch,"V, S","C, up to 1 minute"
+Sacred Flame,Evocation,Cleric,Action,60 feet,"V, S",Instantaneous
+Shillelagh,Transmutation,Druid,Bonus Action,Self,"V, S, M",1 minute
+Shocking Grasp,Evocation,"Sorcerer, Wizard",Action,Touch,"V, S",Instantaneous
+Sorcerous Burst,Evocation,Sorcerer,Action,120 feet,"V, S",Instantaneous
+Spare the Dying,Necromancy,"Cleric, Druid",Action,15 feet,"V, S",Instantaneous
+Starry Wisp,Evocation,"Bard, Druid",Action,60 feet,"V, S",Instantaneous
+Thaumaturgy,Transmutation,Cleric,Action,30 feet,V,Up to 1 minute
+Thorn Whip,Transmutation,Druid,Action,30 feet,"V, S, M",Instantaneous
+Thunderclap,Evocation,"Bard, Druid, Sorcerer, Warlock, Wizard",Action,Self,S,Instantaneous
+Toll the Dead,Necromancy,"Cleric, Warlock, Wizard",Action,60 feet,"V, S",Instantaneous
+True Strike,Divination,"Bard, Sorcerer, Warlock, Wizard",Action,Self,"S, M",Instantaneous
+Vicious Mockery,Enchantment,Bard,Action,60 feet,V,Instantaneous
+Word of Radiance,Evocation,Cleric,Action,Self,"V, M",Instantaneous

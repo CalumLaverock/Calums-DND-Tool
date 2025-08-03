@@ -1,0 +1,63 @@
+Aid,Abjuration,"Bard, Cleric, Druid, Paladin, Ranger",Action,30 feet,"V, S, M",8 hours
+Alter Self,Transmutation,"Sorcerer, Wizard",Action,Self,"V, S","C, up to 1 hour"
+Animal Messenger,Enchantment,"Bard, Druid, Ranger",Action or R,30 feet,"V, S, M",24 Hours
+Arcane Lock,Abjuration,Wizard,Action,Touch,"V, S, M(C*)",Until dispelled
+Arcane Vigor,Abjuration,"Sorcerer, Wizard",Bonus Action,Self,"V, S",Instantaneous
+Augury,Divination,"Cleric, Druid, Wizard",1 minute or R,Self,"V, S, M(C*)",Instantaneous
+Barkskin,Transmutation,"Druid, Ranger",Bonus Action,Touch,"V, S, M",1 hour
+Beast Sense,Divination,"Druid, Ranger",Action or R,Touch,S,"C, up to 1 hour"
+Blindness/Deafness,Transmutation,"Bard, Cleric, Sorcerer, Wizard",Action,120 feet,V,1 minute
+Blur,Illusion,"Sorcerer, Wizard",Action,Self,V,"C, up to 1 minute"
+Calm Emotions,Enchantment,"Bard, Cleric",Action,60 feet,"V, S","C, up to 1 minute"
+Cloud Of Daggers,Conjuration,"Bard, Sorcerer, Warlock, Wizard",Action,60 feet,"V, S, M(C)","C, up to 1 minute"
+Continual Flame,Evocation,"Cleric, Druid, Wizard",Action,Touch,"V, S, M(C*)",Until dispelled
+Cordon Of Arrows,Transmutation,Ranger,Action,Touch,"V, S, M",8 hours
+Crown Of Madness,Enchantment,"Bard, Sorcerer, Warlock, Wizard",Action,120 feet,"V, S","C, up to 1 minute"
+Darkness,Evocation,"Sorcerer, Warlock, Wizard",Action,60 feet,"V, M","C, up to 10 minutes"
+Darkvision,Transmutation,"Druid, Ranger, Sorcerer, Wizard",Action,Touch,"V, S, M",8 hours
+Detect Thoughts,Divination,"Bard, Sorcerer, Wizard",Action,Self,"V, S, M","C, up to 1 minute"
+Dragon's Breath,Transmutation,"Sorcerer, Wizard",Bonus Action,Touch,"V, S, M","C, up to 1 minute"
+Enhance Ability,Transmutation,"Bard, Cleric, Druid, Ranger, Sorcerer, Wizard",Action,Touch,"V, S, M","C, up to 1 hour"
+Enlarge/Reduce,Transmutation,"Bard, Druid, Sorcerer, Wizard",Action,30 feet,"V, S, M","C, up to 1 minute"
+Enthrall,Enchantment,"Bard, Warlock",Action,60 feet,"V, S","C, up to 1 minute"
+Find Steed,Conjuration,Paladin,Action,30 feet,"V, S",Instantaneous
+Find Traps,Divination,"Cleric, Druid, Ranger",Action,120 feet,"V, S",Instantaneous
+Flame Blade,Evocation,"Druid, Sorcerer",Bonus Action,Self,"V, S, M","C, up to 10 minutes"
+Flaming Sphere,Conjuration,"Druid, Sorcerer, Wizard",Action,60 feet,"V, S, M","C, up to 1 minute"
+Gentle Repose,Necromancy,"Cleric, Paladin, Wizard",Action or R,Touch,"V, S, M(C)",10 days
+Gust of Wind,Evocation,"Druid, Ranger, Sorcerer, Wizard",Action,Self,"V, S, M","C, up to 1 minute"
+Heat Metal,Transmutation,"Bard, Druid",Action,60 feet,"V, S, M","C, up to 1 minute"
+Hold Person,Enchantment,"Bard, Cleric, Druid, Sorcerer, Warlock, Wizard",Action,60 feet,"V, S, M","C, up to 1 minute"
+Invisibility,Illusion,"Bard, Sorcerer, Warlock, Wizard",Action,Touch,"V, S, M","C, up to 1 hour"
+Knock,Transmutation,"Bard, Sorcerer, Wizard",Action,60 feet,V,Instantaneous
+Lesser Restoration,Abjuration,"Bard, Cleric, Druid, Paladin, Ranger",Bonus Action,Touch,"V, S",Instantaneous
+Levitate,Transmutation,"Sorcerer, Wizard",Action,60 feet,"V, S, M","C, up to 10 minutes"
+Locate Animals or Plants,Divination,"Bard, Druid, Ranger",Action or R,Self,"V, S, M",Instantaneous
+Locate Object,Divination,"Bard, Cleric, Druid, Paladin, Ranger, Wizard",Action,Self,"V, S, M","C, up to 10 minutes"
+Magic Mouth,Illusion,"Bard, Wizard",1 minute or R,30 feet,"V, S, M(C*)",Until dispelled
+Magic Weapon,Transmutation,"Paladin, Ranger, Sorcerer, Wizard",Bonus Action,Touch,"V, S",1 hour
+Melf's Acid Arrow,Evocation,Wizard,Action,90 feet,"V, S, M",Instantaneous
+Mind Spike,Divination,"Sorcerer, Warlock, Wizard",Action,120 feet,S,"C, up to 1 hour"
+Mirror Image,Illusion,"Bard, Sorcerer, Warlock, Wizard",Action,Self,"V, S",1 minute
+Misty Step,Conjuration,"Sorcerer, Warlock, Wizard",Bonus Action,Self,V,Instantaneous
+Moonbeam,Evocation,Druid,Action,120 feet,"V, S, M","C, up to 1 minute"
+Nystul's Magic Aura,Illusion,Wizard,Action,Touch,"V, S, M",24 hours
+Pass without Trace,Abjuration,"Druid, Ranger",Action,Self,"V, S, M","C, up to 1 hour"
+Phantasmal Force,Illusion,"Bard, Sorcerer, Wizard",Action,60 feet,"V, S, M","C, up to 1 minute"
+Prayer of Healing,Abjuration,"Cleric, Paladin",10 minutes,30 feet,V,Instantaneous
+Protection from Poison,Abjuration,"Cleric, Druid, Paladin, Ranger",Action,Touch,"V, S",1 hour
+Ray of Enfeeblement,Necromancy,"Warlock, Wizard",Action,60 feet,"V, S","C, up to 1 minute"
+Rope Trick,Transmutation,Wizard,Action,Touch,"V, S, M",1 hour
+Scorching Ray,Evocation,"Sorcerer, Wizard",Action,120 feet,"V, S",Instantaneous
+See Invisibility,Divination,"Bard, Sorcerer, Wizard",Action,Self,"V, S, M",1 hour
+Shatter,Evocation,"Bard, Sorcerer, Wizard",Action,60 feet,"V, S, M",Instantaneous
+Shining Smite,Transmutation,Paladin,Bonus Action(*),Self,V,"C,up to 1 minute"
+Silence,Illusion,"Bard, Cleric, Ranger",Action or R,120 feet,"V, S","C, up to 10 minutes"
+Spider Climb,Transmutation,"Sorcerer, Warlock, Wizard",Action,Touch,"V, S, M","C, up to 1 hour"
+Spike Growth,Transmutation,"Druid, Ranger",Action,150 feet,"V, S, M","C, up to 10 minutes"
+Spiritual Weapon,Evocation,Cleric,Bonus Action,60 feet,"V, S","C, up to 1 minute"
+Suggestion,Enchantment,"Bard, Sorcerer, Warlock, Wizard",Action,30 feet,"V, M","C, up to 8 hours"
+Summon Beast,Conjuration,"Druid, Ranger",Action,90 feet,"V, S, M(C)","C, up to 1 hour"
+Warding Bond,Abjuration,"Cleric, Paladin",Action,Touch,"V, S, M",1 hour
+Web,Conjuration,"Sorcerer, Wizard",Action,60 feet,"V, S, M","C, up to 1 hour"
+Zone of Truth,Enchantment,"Bard, Cleric, Paladin",Action,60 feet,"V, S",10 minutes

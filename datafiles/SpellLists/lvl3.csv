@@ -1,0 +1,52 @@
+Animate Dead,Necromancy,"Cleric, Wizard",1 minute,10 feet,"V, S, M",Instantaneous
+Aura of Vitality,Abjuration,"Cleric, Druid, Paladin",Action,Self,V,"C, up to 1 minute"
+Beacon Of Hope,Abjuration,Cleric,Action,30 feet,"V, S","C, up to 1 minute"
+Bestow Curse,Necromancy,"Bard, Cleric, Wizard",Action,Touch,"V, S","C, up to 1 minute"
+Blinding Smite,Evocation,Paladin,Bonus Action,Self,V,1 minute
+Blink,Transmutation,"Sorcerer, Wizard",Action,Self,"V, S",1 minute
+Call Lightning,Conjuration,Druid,Action,120 feet,"V, S","C, up to 10 minutes"
+Clairvoyance,Divination,"Bard, Cleric, Sorcerer, Wizard",10 minutes,1 mile,"V, S, M(C)","C, up to 10 minutes"
+Conjure Animals,Conjuration,"Druid, Ranger",Action,60 feet,"V, S","C, up to 10 minutes"
+Conjure Barrage,Conjuration,Ranger,Action,Self,"V, S, M(C)",Instantaneous
+Counterspell,Abjuration,"Sorcerer, Warlock, Wizard",Reaction,60 feet,S,Instantaneous
+Create Food And Water,Conjuration,"Cleric, Paladin",Action,30 feet,"V, S",Instantaneous
+Crusader's Mantle,Evocation,Paladin,Action,Self,V,"C, up to 1 minute"
+Daylight,Evocation,"Cleric, Druid, Paladin, Ranger, Sorcerer",Action,60 feet,"V, S",1 hour
+Dispel Magic,Abjuration,"Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard",Action,120 feet,"V, S",Instantaneous
+Elemental Weapon,Transmutation,"Druid, Paladin, Ranger",Action,Touch,"V, S","C, up to 1 hour"
+Fear,Illusion,"Bard, Sorcerer, Warlock, Wizard",Action,Self,"V, S, M","C, up to 1 minute"
+Feign Death,Necromancy,"Bard, Cleric, Druid, Wizard",Action or R,Touch,"V, S, M",1 hour
+Fireball,Evocation,"Sorcerer, Wizard",Action,150 feet,"V, S, M",Instantaneous
+Fly,Transmutation,"Sorcerer, Warlock, Wizard",Action,Touch,"V, S, M","C, up to 10 minutes"
+Gaseous Form,Transmutation,"Sorcerer, Warlock, Wizard",Action,Touch,"V, S, M","C, up to 1 hour"
+Glyph of Warding,Abjuration,"Bard, Cleric, Wizard",1 hour,Touch,"V, S, M(C*)",Until dispelled or triggered
+Haste,Transmutation,"Sorcerer, Wizard",Action,30 feet,"V, S, M","C, up to 1 minute"
+Hunger of Hadar,Conjuration,Warlock,Action,150 feet,"V, S, M","C, up to 1 minute"
+Hypnotic Pattern,Illusion,"Bard, Sorcerer, Warlock, Wizard",Action,120 feet,"S, M","C, up to 1 minute"
+Leomund's Tiny Hut,Evocation,"Bard, Wizard",1 minute or R,Self,"V, S, M",8 hours
+Lightning Arrow,Transmutation,Ranger,Bonus Action(*),Self,"V, S",Instantaneous
+Lightning Bolt,Evocation,"Sorcerer, Wizard",Action,Self,"V, S, M",Instantaneous
+Magic Circle,Abjuration,"Cleric, Paladin, Warlock, Wizard",1 minute,10 feet,"V, S, M(C*)",1 hour
+Major Image,Illusion,"Bard, Sorcerer, Warlock, Wizard",Action,120 feet,"V, S, M","C, up to 10 minutes"
+Mass Healing Word,Abjuration,"Bard, Cleric",Bonus Action,60 feet,V,Instantaneous
+Meld into Stone,Transmutation,"Cleric, Druid, Ranger",Action or R,Touch,"V, S",8 hours
+Nondetection,Abjuration,"Bard, Ranger, Wizard",Action,Touch,"V, S, M(C*)",8 hours
+Phantom Steed,Illusion,Wizard,1 minute or R,30 feet,"V, S",1 hour
+Plant Growth,Transmutation,"Bard, Druid, Ranger",Action (Overgrowth) or 8 hours (Enrichment),150 feet,"V, S",Instantaneous
+Protection from Energy,Abjuration,"Cleric, Druid, Ranger, Sorcerer, Wizard",Action,Touch,"V, S","C, up to 1 hour"
+Remove Curse,Abjuration,"Cleric, Paladin, Warlock, Wizard",Action,Touch,"V, S",Instantaneous
+Revivify,Necromancy,"Cleric, Druid, Paladin, Ranger",Action,Touch,"V, S, M(C*)",Instantaneous
+Sending,Divination,"Bard, Cleric, Wizard",Action,Unlimited,"V, S, M",Instantaneous
+Sleet Storm,Conjuration,"Druid, Sorcerer, Wizard",Action,150 feet,"V, S, M","C, up to 1 minute"
+Slow,Transmutation,"Bard, Sorcerer, Wizard",Action,120 feet,"V, S, M","C, up to 1 minute"
+Speak with Dead,Necromancy,"Bard, Cleric, Wizard",Action,10 feet,"V, S, M",10 minutes
+Speak with Plants,Transmutation,"Bard, Druid, Ranger",Action,Self,"V, S",10 minutes
+Spirit Guardians,Conjuration,Cleric,Action,Self,"V, S, M","C, up to 10 minutes"
+Stinking Cloud,Conjuration,"Bard, Sorcerer, Wizard",Action,90 feet,"V, S, M","C, up to 1 minute"
+Summon Fey,Conjuration,"Druid, Ranger, Warlock, Wizard",Action,90 feet,"V, S, M(C)","C, up to 1 hour"
+Summon Undead,Necromancy,"Warlock, Wizard",Action,90 feet,"V, S, M(C)","C, up to 1 hour"
+Tongues,Divination,"Bard, Cleric, Sorcerer, Warlock, Wizard",Action,Touch,"V, M",1 hour
+Vampiric Touch,Necromancy,"Sorcerer, Warlock, Wizard",Action,Self,"V, S","C, up to 1 minute"
+Water Breathing,Transmutation,"Druid, Ranger, Sorcerer, Wizard",Action or R,30 feet,"V, S, M",24 hours
+Water Walk,Transmutation,"Cleric, Druid, Ranger, Sorcerer",Action or R,30 feet,"V, S, M",1 hour
+Wind Wall,Evocation,"Druid, Ranger",Action,120 feet,"V, S, M",C

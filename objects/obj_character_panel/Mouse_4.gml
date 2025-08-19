@@ -1,0 +1,1 @@
+toggle_layer(character_name + "Layer");

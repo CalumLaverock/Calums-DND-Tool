@@ -3,7 +3,6 @@
   "%Name":"obj_button",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
@@ -36,8 +35,8 @@
   "solid":false,
   "spriteId":{
     "link":"io.gamemaker.uipanelsflat-1.0.0",
-    "name":"Flat_Orange_Square",
-    "path":"sprites/Flat_Orange_Square/Flat_Orange_Square.yy",
+    "name":"Flat_Grey_Square",
+    "path":"sprites/Flat_Grey_Square/Flat_Grey_Square.yy",
   },
   "spriteMaskId":null,
   "visible":true,

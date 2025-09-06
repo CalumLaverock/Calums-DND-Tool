@@ -1,3 +1,6 @@
+global.selected_char = "";
+global.debug = false;
+
 font_enable_effects(fnt_outline, true, {
     outlineEnable: true,
     outlineDistance: 2,

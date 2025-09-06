@@ -1,0 +1,49 @@
+[Armor]
+Light Armor
+Studded Leather,45 gp,33 gp,68 gp,X
+Medium Armor
+Chain Shirt,50 gp,38 gp,75 gp,X,X,X,X
+Scale Mail,50 gp,38 gp,75 gp,X,X
+Breastplate,400 gp,300 gp,600 gp,X,X,X,X
+Half Plate,750 gp,562 gp,1125 gp,X
+Heavy Armor
+Ring Mail,30 gp,22 gp,45 gp,X,X,X
+Chain Mail,75 gp,56 gp,113 gp,X,X,X,X
+Splint,200 gp,150 gp,300 gp,X,X
+Plate,1500 gp,1125 gp,2250 gp,X
+Shield
+Shield,10 gp,7 gp,15 gp,X,X,X,X
+[WEAPONS]
+Simple Melee
+Dagger,2 gp,1 gp,3 gp,X,X,X,X
+Handaxe,5 gp,3 gp,8 gp,X,X,X,X
+Javelin (Single),5 sp,3 sp,8 sp,X,X
+Light Hammer,2 gp,1 gp,3 gp,X,X
+Mace,5 gp,3 gp,8 gp,X,X,X
+Sickle,1 gp,7 sp,2 gp,X,X
+Spear,1 gp,7 sp,2 gp,X,X,X,X
+Martial Melee
+Battleaxe,10 gp,7 gp,15 gp,X,X,X,X
+Flail,10 gp,7 gp,15 gp,X,X
+Glaive,20 gp,15 gp,30 gp,X,X
+Greataxe,30 gp,22 gp,45 gp,X,X,X
+Greatsword,50 gp,38 gp,75 gp,X,X,X,X
+Halberd,20 gp,15 gp,30 gp,X,X
+Lance,10 gp,7 gp,15 gp,X
+Longsword,15 gp,11 gp,22 gp,X,X,X,X
+Maul,10 gp,7 gp,15 gp,X,X
+Morningstar,15 gp,11 gp,22 gp,X,X
+Pike,5 gp,3 gp,8 gp,X,X,X
+Rapier,25 gp,18 gp,38 gp,X
+Scimitar,25 gp,18 gp,38 gp,X,X
+Shortsword,10 gp,7 gp,15 gp,X,X,X,X
+Trident,5 gp,3 gp,8 gp,X
+War Pick,5 gp,3 gp,8 gp,X,X
+Warhammer,15 gp,11 gp,22 gp,X,X,X
+[Adventuring Gear]
+Ball Bearings (Bag of 1,000),1 gp,7 sp,2 gp,X,X,X
+Bell,1 gp,7 sp,2 gp,X,X,X
+Block and Tackle, 1 gp,7 sp,2 gp,X,X
+Chain (10 feet),5 gp,3 gp,8 gp,X,X,X,X
+Crowbar,2 gp,1 gp,3 gp,X,X,X,X
+Grappling Hook,2 gp,1 gp,3 gp,X,X

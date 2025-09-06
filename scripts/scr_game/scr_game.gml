@@ -6,7 +6,9 @@ function toggle_layer(layer_name) {
     
     if(layer_name == "CharacterLayer") {
         populate_character_info();
-    }
+    } else if(layer_name == "ExpandedCharacterLayer") {
+		populate_expanded_character();
+	}
 }
 
 function hide_ui_layer(value, index) {

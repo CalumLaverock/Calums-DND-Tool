@@ -47,8 +47,8 @@
   ],
   "name":"Room1",
   "parent":{
-    "name":"Random Spell",
-    "path":"Random Spell.yyp",
+    "name":"Calums DND Tool",
+    "path":"Calums DND Tool.yyp",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -5,7 +5,8 @@ global.statStruct = {
 		Int: "Intelligence",
 		Wis: "Wisdom",
 		Cha: "Charisma",
-		Perception: "Perception"
+		Perception: "Perception",
+		AC: "Armour Class"
 		}
 
 global.character_grid = load_csv("Characters/Characters.csv");

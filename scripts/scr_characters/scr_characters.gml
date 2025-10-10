@@ -4,7 +4,8 @@ global.statStruct = {
 		Con: "Constitution",
 		Int: "Intelligence",
 		Wis: "Wisdom",
-		Cha: "Charisma"
+		Cha: "Charisma",
+		Perception: "Perception"
 		}
 
 global.character_grid = load_csv("Characters/Characters.csv");
@@ -37,7 +38,7 @@ function populate_character_info() {
 		#endregion
 		
 		#region set character Portrait
-		var portraitPanel = flexpanel_node_get_child(charPanel, "Portrait");
+		var portraitPanel = flexpanel_node_get_child(charPanel, "CharImage");
 		var portraitStruct = flexpanel_node_get_struct(portraitPanel);
 		var portraitId = portraitStruct.layerElements[0].elementId;
 		var portraitInst = layer_instance_get_instance(portraitId);
@@ -65,10 +66,12 @@ function populate_character_info() {
 			
 			layer_text_text(scoreTextId, global.character_grid[# j + 1, panel_num])
 			
-			var modStruct = flexpanel_node_get_struct(modPanel);
-			var modTextId = modStruct.layerElements[0].elementId;
-			
-			layer_text_text(modTextId, mods[j]);
+			if(!is_undefined(modPanel)) {
+				var modStruct = flexpanel_node_get_struct(modPanel);
+				var modTextId = modStruct.layerElements[0].elementId;
+				
+				layer_text_text(modTextId, mods[j]);
+			}
 		}
 		#endregion
     }
@@ -121,6 +124,9 @@ function populate_expanded_character() {
 		
 		var statNames = struct_get_names(global.statStruct);
 		for(var j = 0; j < array_length(statNames); j++) {
+			//if (statNames[j] == "Perception")
+				//continue;
+			
 			var statPanel = flexpanel_node_get_child(charPanel, statNames[j]);
 			var statNamePanel = flexpanel_node_get_child(statPanel, "Name");
 			var scorePanel = flexpanel_node_get_child(statPanel, "ScoreText");
@@ -136,10 +142,12 @@ function populate_expanded_character() {
 			
 			layer_text_text(scoreTextId, global.character_grid[# j + 1, charNum])
 			
-			var modStruct = flexpanel_node_get_struct(modPanel);
-			var modTextId = modStruct.layerElements[0].elementId;
-			
-			layer_text_text(modTextId, mods[j]);
+			if (!is_undefined(modPanel)) {
+				var modStruct = flexpanel_node_get_struct(modPanel);
+				var modTextId = modStruct.layerElements[0].elementId;
+				
+				layer_text_text(modTextId, mods[j]);
+			}
 		}
 		#endregion
 	}
